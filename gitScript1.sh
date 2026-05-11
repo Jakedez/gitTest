@@ -6,3 +6,5 @@ git branch branch1
 git switch branch1
 git add git_check.py
 git commit
+git switch main
+git merge branch1 main
